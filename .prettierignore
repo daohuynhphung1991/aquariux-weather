@@ -1,0 +1,6 @@
+.husky
+.idea
+node_modules
+public
+.next
+next-env.d.ts
